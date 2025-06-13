@@ -33,7 +33,7 @@ def main():
         f.write(key)
     
     # Test message with repeating pattern
-    message = "HelloHelloHelloHello"  # 20 bytes
+    message = "You will save this world"  # 20 bytes
     
     print("CBC Mode Example:")
     print("Original Message:", message)

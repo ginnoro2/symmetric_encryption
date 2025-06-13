@@ -82,15 +82,16 @@ python3 cbc_example.py
 **Output:**
 ```
 CBC Mode Example:
-Original Message: HelloHelloHelloHello
+Original Message: You will save this world
 
 Note: Each block is chained with previous block, hiding patterns
 
-Encrypted: kH+wf2GfhNxP8OWf3tS6GavPRXvvL+guS40GPPYmAp4LwadSLTdj50wUfAXJUQ0+
-Decrypted: HelloHelloHelloHello
+Encrypted: izg5F93fJlJ0fqVHapBkgQvMW/5g+0SsXbTYL95LVDbUFhvBYySyk238M9OgYp5C
+Decrypted: You will save this world
 
 Key and encrypted message have been saved for testing decryption
 Run cbc_decrypt.py to test decryption
+
 ```
 
 ### Run Decryption
