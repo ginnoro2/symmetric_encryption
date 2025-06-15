@@ -109,7 +109,7 @@ echo -e "<KEY_HEX>\n<ENCRYPTED_MESSAGE>" | python3 cbc_decrypt.py
 ```
 **Sample Output:**
 ```
-Decrypted Message: HelloHelloHelloHello
+Decrypted Message: You will save this world
 ```
 
 ---
